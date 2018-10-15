@@ -1,0 +1,12 @@
+	ID_Number		 Name		Age		Gender		Score		Grade
+
+1.	1234			enoch		21		m		56		F		
+2.	12345			esther		13		f		78		F		
+3.	12345			yaa		20		f		98		F		
+4.	12346			vero		22		f		67		F		
+5.	12348			ned		23		m		89		F		
+
+Average Age: 19
+Average score: 77
+Male Count: 2
+Female Count3
